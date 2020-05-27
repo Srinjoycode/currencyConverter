@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="loginscreenbackground">loginScreenBackground</string>
+    <string name="nameHint">Enter Your Name</string>
+    <string name="countryHint">Enter Your Country(in small)</string>
+    <string name="inputCurrency"><u>Select Your Currency</u></string>
+    <string name="conversion"><u>CONVERSION</u></string>
+    <string-array name="currency">
+        <item>INR(Rupee)</item>
+        <item>USD(Dollar)</item>
+        <item>EUR(Euro)</item>
+        <item>GBP(Pound)</item>
+    </string-array>
+</resources>
